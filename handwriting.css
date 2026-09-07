@@ -1,0 +1,9 @@
+.working-wrap { margin: 18px 0; border: 1px solid #d9e2ec; border-radius: 16px; overflow: hidden; background: #fff; }
+.working-head { display: flex; align-items: center; justify-content: space-between; gap: 12px; padding: 10px 13px; background: #f0f5fa; }
+.working-head strong { font-size: 13px; }
+.canvas-tools { display: flex; gap: 7px; }
+.tool-btn { padding: 7px 10px; background: #fff; border: 1px solid #d9e2ec; color: #243b53; font-size: 12px; }
+.tool-btn.active { background: #102a43; color: #fff; }
+.work-canvas { display: block; width: 100%; height: 230px; touch-action: none; background-color: #fff; background-image: linear-gradient(#e8eef5 1px, transparent 1px), linear-gradient(90deg, #e8eef5 1px, transparent 1px); background-size: 24px 24px; }
+.working-note { padding: 8px 13px; color: #627d98; font-size: 12px; border-top: 1px solid #d9e2ec; }
+@media (max-width: 650px) { .working-head { align-items: flex-start; flex-direction: column; } .canvas-tools { width: 100%; } .tool-btn { flex: 1; } }
