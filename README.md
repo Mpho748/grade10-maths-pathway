@@ -16,6 +16,7 @@ Open `index.html` in a browser, or upload the folder to GitHub Pages. No install
 - Apple Pencil or finger working canvas on diagnostic and support questions
 - Saved handwritten working attached to learner evidence
 - JSON export for backup or sharing
+- Password gate for facilitator-only dashboard access
 
 ## Pilot limitation
 
