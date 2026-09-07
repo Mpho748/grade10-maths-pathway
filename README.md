@@ -17,6 +17,9 @@ Open `index.html` in a browser, or upload the folder to GitHub Pages. No install
 - Saved handwritten working attached to learner evidence
 - JSON export for backup or sharing
 - Password gate for facilitator-only dashboard access
+- Shared Supabase database for progress from all learner devices
+- Secure facilitator email-and-password authentication
+- Local fallback when a learner temporarily loses internet access
 
 ## Pilot limitation
 
