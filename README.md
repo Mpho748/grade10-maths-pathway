@@ -19,6 +19,8 @@ Open `index.html` in a browser, or upload the folder to GitHub Pages. No install
 - Immediate feedback on the learner's written method
 - Learners must rewrite working that the AI cannot read or considers insufficient
 - The final answer written on the canvas must match the selected answer option
+- Each completed question appears on the facilitator dashboard while the learner is still working
+- Facilitators can review the original handwriting, AI transcription, expected answer, likely error and suggested guidance
 - Possible error categories such as signs, arithmetic, formula choice and substitution
 - JSON export for backup or sharing
 - Password gate for facilitator-only dashboard access
