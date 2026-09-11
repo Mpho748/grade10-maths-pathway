@@ -18,6 +18,7 @@ Open `index.html` in a browser, or upload the folder to GitHub Pages. No install
 - AI-assisted handwriting reading through a protected Supabase Edge Function
 - Immediate feedback on the learner's written method
 - Learners must rewrite working that the AI cannot read or considers insufficient
+- The final answer written on the canvas must match the selected answer option
 - Possible error categories such as signs, arithmetic, formula choice and substitution
 - JSON export for backup or sharing
 - Password gate for facilitator-only dashboard access
