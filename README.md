@@ -21,6 +21,8 @@ Open `index.html` in a browser, or upload the folder to GitHub Pages. No install
 - The final answer written on the canvas must match the selected answer option
 - Each completed question appears on the facilitator dashboard while the learner is still working
 - Facilitators can review the original handwriting, AI transcription, expected answer, likely error and suggested guidance
+- Returning learners can continue their personalised pathway on the same iPad
+- The dashboard summarises ongoing practice attempts, accuracy, topics and latest activity
 - Possible error categories such as signs, arithmetic, formula choice and substitution
 - JSON export for backup or sharing
 - Password gate for facilitator-only dashboard access
